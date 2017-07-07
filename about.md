@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+CV (CNPq Lattes) [here](http://lattes.cnpq.br/3160805152538713)  
+ResearchGate [here](http://www.researchgate.net/profile/Eliardo_Costa)  
+Google Scholar [here](http://scholar.google.com.br/citations?user=CJRHpW8AAAAJ&hl)  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email: [eliardo@ime.usp.br](mailto:eliardo@ime.usp.br)  

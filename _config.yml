@@ -30,6 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  googlescholar: CJRHpW8AAAAJ&hl=pt-BR # anything in your profile that comes after scholar.google.com.br/citations?user=
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
